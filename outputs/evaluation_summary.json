@@ -1,0 +1,8 @@
+{
+  "record": "100",
+  "sampling_rate_hz": 360,
+  "continuous_test_mse": 9.173292710329406e-06,
+  "continuous_test_mae": 0.0013379491865634918,
+  "heartbeat_test_mse": 4.5786931877955794e-05,
+  "heartbeat_test_mae": 0.0030150869861245155
+}
