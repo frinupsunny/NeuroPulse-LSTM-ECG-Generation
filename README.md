@@ -146,6 +146,6 @@ This project is developed for academic and educational purposes only. The genera
 
 ---
 
-**Author:** Frinu P. Sunny
+**Author:** Frinu P Sunny
 
 **Project:** NeuroPulse – LSTM-Based Synthetic ECG Signal Generation
